@@ -5,11 +5,3 @@ pandas
 openpyxl
 shutil
 os
-
-.
-├── images/
-│   ├── 123456.jpg
-│   ├── 789012.jpg
-│   └── ...
-├── awb_list.xlsx
-└── extract_images.py
